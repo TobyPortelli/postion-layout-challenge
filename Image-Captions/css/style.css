@@ -1,0 +1,28 @@
+h2 {
+    width: 20rem;
+    margin-left: 1rem;
+    padding-left: 1rem;
+}
+
+figure {
+    display: block;
+    padding-bottom: -2rem;
+    margin-bottom: -2rem;
+}
+
+.caption {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 20rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    bottom: 2.1rem;
+    color: white;
+    background: rgba(0,0,0,.5);
+}
+
+img {
+    width: 20rem;
+    display: block;
+}
